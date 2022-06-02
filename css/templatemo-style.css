@@ -706,9 +706,9 @@ ul {
     margin: 0;
     width: 100%;
   }
-  .projects-content .text-content {
-    display: none;
-  }
+  /* .projects-content .text-content {
+    
+  } */
   .contact-content .more-info {
     padding: 30px;
     margin-top: 0px;
